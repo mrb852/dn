@@ -1,0 +1,18 @@
+{
+  "name": "peer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "find-port": "^1.0.1",
+    "q": "^1.4.1",
+    "request": "^2.55.0"
+  }
+}
